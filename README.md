@@ -1,25 +1,25 @@
-# 🧠 Debnil's Open Source Plagiarism & AI Content Detector
+# 🧠 Debnil's Open Source Plagiarism + AI Detection Tool
 
-An open-source desktop tool for detecting **plagiarized** and **AI-generated** content using DuckDuckGo, arXiv, GPT-2 perplexity scoring, and local NLP models.
+An open-source, local-first app that checks for AI-generated content (GPT-2 based) and web plagiarism using DuckDuckGo + arXiv scraping.
+
+![Screenshot](./preview.png)
+
+## 🚀 Features
+
+- ✅ Full Semantic & AI-Based Analysis
+- 🧠 GPT-2 AI Detection + Keyword Logic
+- 🔍 Plagiarism Check (DuckDuckGo + arXiv)
+- 📈 Graphical AI Score Trends (bar + line)
+- 📝 Supports `.docx`, `.pdf`, or pasted text
+- 📤 Export Reports as `.txt`, `.docx`, or `.pdf`
+- 💻 Works locally, no data shared
 
 ---
 
-## 🔥 Features
+## 🛠 Installation
 
-- 📂 Upload `.docx` or `.pdf` documents
-- 🧠 GPT-2 based AI Detection (with token perplexity scoring)
-- 🔍 DuckDuckGo & arXiv similarity matching
-- 📉 AI generation percentage + trend graph
-- 🧾 Export to `.txt`, `.docx`, `.pdf`
-- 🧪 Fallback to Mojeek on DDG rate-limit
-- 🌐 Local execution — No API needed
-- 👨‍💻 Built entirely with open-source libraries
+### 1. Clone the repo
 
----
-
-## 📦 Installation
-
-1. **Clone this repo**  
-   ```bash
-   git clone https://github.com/debnil-git/plag-ai-detector.git
-   cd plag-ai-detector
+```bash
+git clone https://github.com/debnil-git/plag-ai-detector.git
+cd plag-ai-detector
