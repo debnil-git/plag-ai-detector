@@ -1,0 +1,14 @@
+transformers>=4.30.0
+torch>=2.0.0
+sentence-transformers>=2.2.2
+scikit-learn>=1.1.1
+numpy>=1.23.0
+fpdf>=1.7.2
+python-docx>=0.8.11
+docx2txt>=0.8
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+aiohttp>=3.8.5
+duckduckgo-search>=3.8.5
+matplotlib>=3.8.4
+Pillow>=10.2.0
