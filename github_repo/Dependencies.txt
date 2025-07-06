@@ -1,0 +1,11 @@
+transformers
+sentence-transformers
+torch
+fpdf
+python-docx
+docx2txt
+pdfminer.six
+matplotlib
+Pillow
+duckduckgo-search
+aiohttp

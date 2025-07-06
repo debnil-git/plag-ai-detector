@@ -1,0 +1,12 @@
+
+---
+
+### ✅ STEP 3: `.gitignore` (for Python)
+
+```gitignore
+__pycache__/
+*.pyc
+.env
+*.pdf
+*.docx
+*.log

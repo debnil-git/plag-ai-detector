@@ -1,0 +1,12 @@
+plag-ai-detector/
+│
+├── main.py                   # Main GUI file (Tkinter)
+├── plag_check.py             # Core logic for AI + plagiarism detection
+├── requirements.txt          # All dependencies
+├── README.md                 # Project overview and instructions
+├── LICENSE                   # MIT or your chosen open-source license
+├── .gitignore                # Python-related ignores
+├── assets/
+│   └── example_graph.png     # (Optional) sample graph
+└── docs/
+    └── architecture.md       # (Optional) explain your design logic
