@@ -1,3 +1,4 @@
+
 # 🧠 Debnil's Open Source Plagiarism + AI Detection Tool
 
 An open-source, local-first app that checks for AI-generated content (GPT-2 based) and web plagiarism using DuckDuckGo + arXiv scraping.
@@ -14,7 +15,7 @@ An open-source, local-first app that checks for AI-generated content (GPT-2 base
 - 📤 Export Reports as `.txt`, `.docx`, or `.pdf`
 - 💻 Works locally, no data shared
 
----
+
 
 ## 🛠 Installation
 
@@ -23,3 +24,6 @@ An open-source, local-first app that checks for AI-generated content (GPT-2 base
 ```bash
 git clone https://github.com/debnil-git/plag-ai-detector.git
 cd plag-ai-detector
+
+# plag-ai-detector
+d7a00a3cb054419e30d5e2746df24ad3f1faf869
