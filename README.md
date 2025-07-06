@@ -17,13 +17,16 @@ An open-source, local-first app that checks for AI-generated content (GPT-2 base
 
 
 
+
+# Plagiarism + AI Detector
+
+A tkinter-based GUI tool to detect AI-generated and plagiarized content using open web sources and GPT-2 perplexity scoring.
+
 ## 🛠 Installation
 
 ### 1. Clone the repo
-
 ```bash
 git clone https://github.com/debnil-git/plag-ai-detector.git
 cd plag-ai-detector
-
-# plag-ai-detector
-d7a00a3cb054419e30d5e2746df24ad3f1faf869
+pip install -r requirements.txt
+python main.py
